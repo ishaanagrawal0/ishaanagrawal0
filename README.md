@@ -13,7 +13,7 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/ishaanagrawal_in" target="blank">
-  <img align="center" src="https://listimg.pinclipart.com/picdir/s/109-1099301_instagram-instagram-logo-no-border-clipart.png" alt="Instagram Profile" height="30" width="40" />
+  <img align="center" src="https://ibb.co/VQPNPZM" alt="Instagram Profile" height="30" width="40" />
 </a>
 <a href="https://codeforces.com/profile/ishaan_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishaan_agrawal" height="30" width="40" /></a>
 </p>
