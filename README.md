@@ -16,6 +16,9 @@
   <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" alt="Instagram Profile" height="30" width="40" />
 </a>
 <a href="https://codeforces.com/profile/ishaan_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ishaan_agrawal" height="30" width="40" /></a>
+<a href="https://discord.com/users/sparkfeast" target="blank">
+  <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/discord/discord.svg" alt="Discord Profile" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
